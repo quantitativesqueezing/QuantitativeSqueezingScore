@@ -4,5 +4,5 @@ A Python-based tool that uses multiple custom algorithmic models for determining
 ## Testing
 
 ```
-    python squeeze_score.py example_input.csv -o example_output.csv --debug
+python squeeze_score.py example_input.csv -o example_output.csv --debug
 ```
